@@ -33,7 +33,7 @@ Maior clareza e facilidade de uso para os consumidores da API.
 ### Tecnologias Utilizadas
 ![Spring Boot 3](https://img.shields.io/badge/Spring_Boot_3-%236DB33F?style=for-the-badge&logo=spring-boot&logoColor=black)&nbsp;
 ![Java](https://img.shields.io/badge/Java_17-060606?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![MS Azure]( https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)&nbsp;
+![Maven]( https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
 
